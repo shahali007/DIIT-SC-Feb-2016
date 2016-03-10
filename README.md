@@ -41,4 +41,3 @@
 	3. Do all HTML tags come in pair?
 	4. Write 5 input types.
 	5. What is HTML?
-shahali.me
